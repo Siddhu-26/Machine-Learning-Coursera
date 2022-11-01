@@ -1,2 +1,2 @@
 # Machine-Learning-Coursera
-Coursera Assignments
+Machine Learning Specialization Coursera Assignments
